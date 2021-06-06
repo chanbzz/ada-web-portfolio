@@ -1,0 +1,183 @@
+
+* {
+    margin: 0px;
+    list-style-type: none;
+}
+
+
+
+
+a:visited {
+    color:white;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;           
+    background-color: aliceblue;
+    opacity: .50;
+}
+
+
+
+body { 
+    background: url("file:///Users/chan/Developer/projects/portfolio/images/portfolio_background.jpeg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+nav img {
+    display: fixed;
+    opacity: .8;
+    border-radius: 50%;
+}
+
+.shape1 {
+    
+    display: block;
+    padding-left: 39%;
+    margin-top: 5%;
+    width: 50%;
+    
+}
+
+.shape1 img {
+    height: 18rem;
+    width: 18rem;
+}
+
+#transform:hover img {
+    display: none;
+}
+
+
+.shape1:hover {
+
+    height: 20rem;
+    background: url(file:///Users/chan/Downloads/chanlil.png) no-repeat center center;
+    background-size: contain;
+    padding-left: 43%;
+    position: fixed;
+
+}
+
+
+.shape2 {
+
+    float: left;
+    padding-top: 7.5%;
+    padding-left: 16%;
+    position: fixed;
+    
+
+}
+
+.shape2 img {
+    height: 15rem;
+    width: 15rem;
+    margin-bottom: 75px;
+
+}
+
+.shape2:hover {
+
+    font-style: inherit;
+    font-size: 2rem;
+    color: white;
+    list-style-type: none;
+    font-weight: bold;
+    opacity: 0.5;
+
+}
+
+.shape3 {
+    float: right;
+    padding-top: 7.5%;
+    padding-right: 20%;
+    
+}
+
+.shape3 img {
+    height: 15rem;
+    width: 15rem;
+    margin-bottom: 75px;
+}
+
+.shape3:hover {
+
+    font-style: inherit;
+    font-size: 2rem;
+    color: white;
+    list-style-type: none;
+    font-weight: bold;
+    opacity: 0.5;
+
+}
+
+/* .shape4 img {
+    height: 6rem;
+    width: 6rem;
+}
+
+.shape4 {
+    display: block;
+    padding-top: 10%;
+    padding-left: 45%;
+    
+}
+
+.shape4:hover {
+
+    font-style: inherit;
+    font-size: 2rem;
+    color: white;
+    list-style-type: none;
+    font-weight: bold;
+    opacity: 0.5; */
+/* 
+} */
+
+
+header h1 {
+    padding-bottom: 0px;
+    color: white; 
+    padding-top: 2%;
+    opacity: 0.5;
+    font-size: 5rem;
+    text-align: center;
+
+
+}
+
+.intro {
+
+    color: whitesmoke;
+    opacity: 0.8;
+    font-size: 1.1rem;
+    text-align: center  
+
+}
+
+
+
+
+
+
+
+
+
+
+
